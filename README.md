@@ -12,3 +12,4 @@ sudo mv functions.php /var/www/html/include/functions.php
 sudo mv lh.php /var/www/html/include/lh.php
 sudo chmod +x /var/www/html/include/lh.php
 ```
+<img src="https://github.com/ibshafique/dvswitch-setup/blob/main/assets/dashboard.png">
